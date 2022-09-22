@@ -1,1 +1,2 @@
 This file stores the release notes of the project.
+release-notes updated remotely.
