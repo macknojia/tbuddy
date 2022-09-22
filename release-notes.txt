@@ -1,0 +1,1 @@
+This file stores the release notes of the project.
